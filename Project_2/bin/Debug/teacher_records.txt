@@ -1,2 +1,0 @@
-1,  John Doe,  ClassA
-2, John Doe, ClassA

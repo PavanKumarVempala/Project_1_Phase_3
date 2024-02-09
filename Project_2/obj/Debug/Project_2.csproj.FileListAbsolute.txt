@@ -1,7 +1,0 @@
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\bin\Debug\Project_2.exe.config
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\bin\Debug\Project_2.exe
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\bin\Debug\Project_2.pdb
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\obj\Debug\Project_2.exe
-C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Projects\Project_2\Project_2\obj\Debug\Project_2.pdb
